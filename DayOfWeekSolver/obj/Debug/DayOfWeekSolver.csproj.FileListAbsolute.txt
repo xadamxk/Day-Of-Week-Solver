@@ -10,3 +10,6 @@ C:\Users\Adam\Documents\Visual Studio 2013\Projects\DayOfWeekSolver\DayOfWeekSol
 C:\Users\Adam\Documents\Visual Studio 2013\Projects\DayOfWeekSolver\DayOfWeekSolver\bin\Debug\DayOfWeekSolver.exe
 C:\Users\Adam\Documents\Visual Studio 2013\Projects\DayOfWeekSolver\DayOfWeekSolver\bin\Debug\DayOfWeekSolver.pdb
 C:\Users\Adam\Documents\Visual Studio 2013\Projects\DayOfWeekSolver\DayOfWeekSolver\obj\Debug\DayOfWeekSolver.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\GitHub\Day-Of-Week-Solver\DayOfWeekSolver\bin\Debug\DayOfWeekSolver.exe.config
+C:\Users\Adam\Documents\GitHub\Day-Of-Week-Solver\DayOfWeekSolver\obj\Debug\DayOfWeekSolver.exe
+C:\Users\Adam\Documents\GitHub\Day-Of-Week-Solver\DayOfWeekSolver\obj\Debug\DayOfWeekSolver.pdb
