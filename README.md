@@ -10,5 +10,8 @@ Errors will be prompted for all invalid input values.
 **This tool only works for any date after the year 1600 due to implemention of the Gregorian calender.
 
 EDIT: The DayOfWeek default libraries are over-rated, but if you want to simplify this project to one line:
+```
 Console.WriteLine(DateTime.Parse(Console.ReadLine()).DayOfWeek);
-^ Credits to my friend Assault
+```
+<br/>
+^ Credit to my friend Assault
