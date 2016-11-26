@@ -13,5 +13,4 @@ EDIT: The DayOfWeek default libraries are over-rated, but if you want to simplif
 ```
 Console.WriteLine(DateTime.Parse(Console.ReadLine()).DayOfWeek);
 ```
-<br/>
 ^ Credit to my friend Assault
